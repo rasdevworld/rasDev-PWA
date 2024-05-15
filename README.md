@@ -51,4 +51,4 @@ MIT License - The License file is provided here : (./LICENSE)
 
 Github Repository - https://github.com/rasdevworld/rasDev-PWA-Text-Editor
 
-Deployed Page - 
+Deployed Page - https://rasdev-pwa-text-editor.onrender.com
